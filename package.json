@@ -1,0 +1,37 @@
+{
+  "name": "cordova-plugin-ios-microphone-permissions",
+  "version": "1.0.0",
+  "author": "pinchnzoom",
+  "description": "Cordova / PhoneGap Plugin Permission Settings for NSMicrophoneUsageDescription in iOS 10 by adding a declaration to the Info.plist file",
+  "cordova": {
+    "id": "cordova-plugin-ios-microphone-permissions",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinchnzoom/cordova-plugin-ios-microphone-permissions"
+  },
+  "keywords": [
+    "cordova",
+    "ios",
+    "app",
+    "security",
+    "permissions",
+    "nsmicrophoneusagedescription",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pinchnzoom/cordova-plugin-ios-microphone-permissions/issues"
+  },
+  "homepage": "https://github.com/pinchnzoom/cordova-plugin-ios-microphone-permissions/#readme"
+}
