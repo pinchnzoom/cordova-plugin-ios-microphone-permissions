@@ -7,13 +7,13 @@
 #### Latest published version on npm (with Cordova CLI >= 5.0.0)
 
 ```
-cordova plugin add cordova-plugin-ios-camera-permissions --save
+cordova plugin add cordova-plugin-ios-microphone-permissions --save
 ```
 
 #### Latest version from GitHub
 
 ```
-cordova plugin add https://github.com/Cordobo/cordova-plugin-ios-camera-permissions.git --save
+cordova plugin add https://github.com/pinchnzoom/cordova-plugin-ios-microphone-permissions.git --save
 ```
 
 ## Usage
