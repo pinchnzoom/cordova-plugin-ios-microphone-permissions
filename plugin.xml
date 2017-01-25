@@ -9,8 +9,9 @@
         <engine name="cordova" version=">=3.0.0"/>
     </engines>
     <platform name="ios">
+      <preference name="MICROPHONE_USAGE_DESCRIPTION" default=" " />
       <config-file target="*-Info.plist" parent="NSMicrophoneUsageDescription">
-          <string>This app needs microphone access</string>
+          <string>$MICROPHONE_USAGE_DESCRIPTION</string>
       </config-file>
     </platform>
 </plugin>
