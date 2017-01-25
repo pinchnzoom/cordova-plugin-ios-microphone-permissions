@@ -10,7 +10,7 @@
     </engines>
     <platform name="ios">
       <config-file target="*-Info.plist" parent="NSMicrophoneUsageDescription">
-          <string>This app needs microphone access</string>
+          <string>$MICROPHONE_USAGE_DESCRIPTION</string>
       </config-file>
     </platform>
 </plugin>
